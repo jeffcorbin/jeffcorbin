@@ -2,4 +2,4 @@
 
 ### I’m a creative type with a passion for science and continuous learning. I enjoy figuring out how things work. <br>
 
-### I have a M.S. in Data Analytics, a B.A. in Economics, and am experienced in SQL, Python, R, Tableau, Dataiku, and agile methods. <br>
+### I have a M.S. in Data Science, a B.A. in Economics, and am experienced in SQL, Python, R, Tableau, Dataiku, and agile methods. <br>
