@@ -9,7 +9,7 @@ I’m a machine learning engineer focused on applied AI. I enjoy building system
 
 ### 📂 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/jeffcorbinjr/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jeffcorbinjr/Portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
