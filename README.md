@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jeffc
 ### 🛠️ Tools
 
 - Languages: Python, SQL
-- Cloud Platforms: Microsoft Azure, Microsoft Foundry
+- Cloud Platforms: Microsoft Azure, Azure Databricks, Microsoft Foundry
 - Tools & Frameworks: MLflow, Spark, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost, OpenAI, LangChain
 
 ### 🤝 Connect with Me
