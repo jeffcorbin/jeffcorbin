@@ -1,5 +1,22 @@
-### I’m an engineer with a skillset that intersects data science, machine learning, and data engineering. I bring a formal and rigorous software engineering practice to the efforts of analytics, and an analytical and business-outcomes mindset to the efforts of data engineering. I build tools and infrastructure to support the efforts of the data and analytics team as a whole. <br>
+## Hey, I'm Jeff :wave:
 
-### I’m a creative type with a passion for science and continuous learning. I enjoy figuring out how things work. <br>
+I’m a machine learning engineer focused on applied AI. I enjoy figuring out how systems work and solving problems that benefit others.
 
-### Connect with me on LinkedIn: (https://www.linkedin.com/in/jeffcorbinjr/) <br>
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jeffcorbinjr/Portfolio-Guide/blob/main/README.md).
+
+### 🛠️ Tools
+
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/jeffcorbinjr/)
