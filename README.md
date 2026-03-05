@@ -1,22 +1,23 @@
-## Hey, I'm Jeff :wave:
+## Hey, I'm Jeff 👋🏻
 
-I’m a machine learning engineer focused on applied AI. I enjoy figuring out how systems work and solving problems that benefit others.
+I’m a machine learning engineer focused on applied AI. I enjoy building systems that solve problems and benefit others.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+- **Generative AI & RAG:** Architecting and deploying production-ready applications using Azure, Python, and OpenAI SDK.
+- **Predictive Modeling:** Developing and deploying machine learning systems using SQL, Python, and Databricks.
+- **MLOps & Cloud Architecture:** Optimizing Databricks clusters and managing model lifecycles with MLflow.
+- **Full-Stack Data Engineering:** Leveraging 10+ years of SQL and data warehouse expertise to architect scalable data pipelines.
 
-### 📚 Projects
+### 📂 Projects
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/jeffcorbinjr/Portfolio-Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Languages: Python, SQL, R
+- Cloud Platforms: Microsoft Azure, Microsoft Foundry
+- Tools & Frameworks: MLflow, Spark, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost, OpenAI, Streamlit, LangChain
+- Applications: Machine learning, statistical modeling, GenAI, LLMs, RAG, context engineering
 
-### 👋🏻 Connect with Me
+### 🤝 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/jeffcorbinjr/)
