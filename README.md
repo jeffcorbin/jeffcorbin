@@ -5,7 +5,7 @@ I’m a machine learning engineer focused on applied AI. I enjoy building system
 - **Generative AI & RAG:** Architecting and deploying production-ready applications using Azure, Python, and OpenAI SDK.
 - **Predictive Modeling:** Developing and deploying machine learning systems using SQL, Python, and Databricks.
 - **MLOps & Cloud Architecture:** Optimizing Databricks clusters and managing model lifecycles with MLflow.
-- **Full-Stack Data Engineering:** Leveraging 10+ years of SQL and data warehouse expertise to architect scalable data pipelines.
+- **Full-Stack Data Engineering:** Leveraging 10+ years of SQL and data warehouse expertise to build scalable data pipelines.
 
 ### 📂 Projects
 
@@ -13,10 +13,9 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jeffc
 
 ### 🛠️ Tools
 
-- Languages: Python, SQL, R
+- Languages: Python, SQL
 - Cloud Platforms: Microsoft Azure, Microsoft Foundry
-- Tools & Frameworks: MLflow, Spark, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost, OpenAI, Streamlit, LangChain
-- Applications: Machine learning, statistical modeling, GenAI, LLMs, RAG, context engineering
+- Tools & Frameworks: MLflow, Spark, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost, OpenAI, LangChain
 
 ### 🤝 Connect with Me
 
